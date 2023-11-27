@@ -5,7 +5,7 @@
 
 Использовался датасет по ссылке:
 
-https://www.kaggle.com/datasets/justin900429/3d-printer-defected-dataset/download?datasetVersionNumber=1
+[DataSet](https://www.kaggle.com/datasets/justin900429/3d-printer-defected-dataset/download?datasetVersionNumber=1)
 
 Файл trainModel.py - обучает модель и сохраняет. 
 
